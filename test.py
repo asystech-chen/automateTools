@@ -19,3 +19,5 @@ for i in range(100,200):
             break
     else:
         print(i)
+#随便写点东西吧
+#欢迎大家来到ASYS科技!感谢大家的喜欢！
